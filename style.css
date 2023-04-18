@@ -1,0 +1,15 @@
+img{
+    width: 300px; height: 200px;
+}
+
+body{
+    background-color: peachpuff;
+}
+
+p{
+    font-size: 12px; color: darkred; font-style: oblique;
+}
+
+#heading{
+    color: blue; font-size: 20px;
+}
